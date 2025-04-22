@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Ahmed Amr Software Dev & Full Stack Dev</h3>
+<h3 align="left">My name is Ahmed Amr Software Engineer & Full Stack Developer</h3>
 
 ###
 
