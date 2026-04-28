@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdqOG9lYWxja3d3anlkOGkyeTF0aXM5bjJ2OXF2bmFsd2Y5YmdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
   <h1>Hey 👋 I'm Ahmed Amr</h1>
-  <p><strong>Full Stack Web Developer | MIS Student at Abu Qir Institute</strong></p>
+  <p><strong>Full Stack Web Developer | BIS Student at Abu Qir Institute</strong></p>
   <p>📍 Alexandria, Egypt</p>
 
   <p>
-    <a href="https://ahmed3mr55.github.io/portfolio" target="_blank">🌍 Portfolio</a> • 
+    <a href="https://ahmed-amr.misho.cfd/" target="_blank">🌍 Portfolio</a> • 
     <a href="https://www.linkedin.com/in/ahmad3mr5" target="_blank">🔗 LinkedIn</a> • 
     <a href="mailto:ahmad.dev.web@gmail.com">📧 Email</a>
   </p>
