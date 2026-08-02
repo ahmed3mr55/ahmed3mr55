@@ -1,68 +1,131 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdqOG9lYWxja3d3anlkOGkyeTF0aXM5bjJ2OXF2bmFsd2Y5YmdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
-  <h1>Hey 👋 I'm Ahmed Amr</h1>
-  <p><strong>Full Stack Web Developer | BIS Student at Abu Qir Institute</strong></p>
-  <p>📍 Alexandria, Egypt</p>
 
-  <p>
-    <a href="https://ahmed-amr.misho.cfd/" target="_blank">🌍 Portfolio</a> • 
-    <a href="https://www.linkedin.com/in/ahmad3mr5" target="_blank">🔗 LinkedIn</a> • 
-    <a href="mailto:ahmad.dev.web@gmail.com">📧 Email</a>
-  </p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdqOG9lYWxja3d3anlkOGkyeTF0aXM5bjJ2OXF2bmFsd2Y5YmdhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="180"/>
+
+# 👋 Hi, I'm Ahmed Amr
+
+### Full Stack Web Developer | BIS Student | Passionate about building scalable web apps
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ahmed3mr55&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p>
+<a href="https://ahmed-amr.misho.cfd">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmad3mr5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ahmad.dev.web@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+📍 Alexandria, Egypt
+
 </div>
 
-### 👨‍💻 About Me
-- [cite_start]🚀 **Full Stack Developer** with 1+ years of experience building scalable web applications[cite: 7].
-- [cite_start]🎓 Currently studying **Management Information Systems (BIS)**[cite: 10].
-- [cite_start]⚡ Focused on **Performance & SEO**: Improved initial load times by **40%** in production projects[cite: 39].
-- [cite_start]🛠️ Expert in building secure **RESTful APIs** handling **500+ concurrent requests**[cite: 41].
-- 🎲 Fun fact: My best debugging happens at 3 AM.
+---
+
+# 🚀 About Me
+
+- 💻 Full Stack Web Developer.
+- 🎓 BIS Student at Abu Qir Institute.
+- ⚡ Passionate about Performance, SEO and Clean Architecture.
+- 🔥 Building modern applications with React, Next.js and Node.js.
+- 🐳 Experienced with Docker, VPS, Nginx and CI/CD.
+- 🌙 Most bugs surrender after midnight.
 
 ---
 
-### 🛠️ Tech Stack
+# 💻 Tech Stack
 
-**Languages & Core**
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,cs)
+### Languages
 
-**Frontend & Styling**
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,go,cs" />
+</p>
 
-**Backend & Databases**
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,rabbitmq)
+### Frontend
 
-**Tools & Deployment**
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,postman)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres" />
+</p>
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,rabbitmq" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux,nginx" />
+</p>
 
 ---
 
-### 🌟 Featured Projects
+# 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Courses Hub** | [cite_start]Full-stack LMS with RBAC, supporting 1,000+ users[cite: 15]. | [cite_start]Next.js, MongoDB, Cloudinary [cite: 13] |
-| **A Social** | [cite_start]Secure platform with 2FA and <100ms notification latency[cite: 20, 21]. | [cite_start]Next.js, Express, JWT [cite: 18] |
-| **Misho Temp Mail** | [cite_start]Privacy-focused tool generating disposable emails in <2s[cite: 25]. | [cite_start]Next.js, Express, SMTP [cite: 23] |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 Courses Hub | Full Stack LMS with authentication, RBAC and course management. | Next.js • MongoDB • Cloudinary |
+| 💬 A Social | Social platform with JWT Authentication, 2FA and real-time notifications. | Next.js • Express • MongoDB |
+| 📧 Misho Temp Mail | Disposable Email Generator with fast inbox creation. | Next.js • Express • SMTP |
 
 ---
 
-### 📊 GitHub Stats
+# 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed3mr55&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed3mr55&layout=compact&theme=radical" alt="Top Languages" height="150" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed3mr55&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed3mr55&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed3mr55&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
 
-### 🤝 Connect with Me
-<div align="left">
-  <a href="https://www.facebook.com/ahmed3mr5" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ahmed3mr55" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad3mr5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmed3mr55&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://www.facebook.com/ahmed3mr5">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/ahmed3mr55">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmad3mr5">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ahmad.dev.web@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </div>
